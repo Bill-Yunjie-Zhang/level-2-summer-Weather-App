@@ -1,7 +1,6 @@
 import React from 'react'
 import axios from 'axios'
 import { Card, CardMeta } from 'semantic-ui-react'
-import { BrowserRouter, Route, Link } from 'react-router-dom'
 
 
 class HomeScreen extends React.Component{
