@@ -1,6 +1,6 @@
 import React from 'react'
 import axios from 'axios'
-import { Card, CardMeta } from 'semantic-ui-react'
+import { Card } from 'semantic-ui-react'
 
 
 class HomeScreen extends React.Component{

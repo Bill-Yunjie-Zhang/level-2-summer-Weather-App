@@ -7,10 +7,11 @@ import HomeScreen from './screens/HomeScreen'
 import AboutScreen from './screens/AboutScreen'
 import AboutMe from './screens/AboutMe'
 
+
 class App extends React.Component{
     render(){
         const navButtonStyle = {
-            fontSize : 30
+            fontSize : 20
         }
 
         return ( 

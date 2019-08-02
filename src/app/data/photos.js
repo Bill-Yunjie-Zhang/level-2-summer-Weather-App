@@ -32,8 +32,8 @@ const images = [
         thumbnail: 'http://picsum.photos/id/88/100',
     },
     {
-        original: 'http://picsum.photos/id/43/1000/500',
-        thumbnail: 'http://picsum.photos/id/43/100',
+        original: 'http://picsum.photos/id/46/1000/500',
+        thumbnail: 'http://picsum.photos/id/46/100',
     },
     {
         original: 'http://picsum.photos/id/55/1000/500',
